@@ -14,5 +14,5 @@ import java.util.List;
 
 public class OrderRequest {
     @OneToMany
-    private List<OrderLineItemsDto> orderLineItemsDtos;
+    private List<OrderLineItemsDto> orderLineItemsDTos;
 }
